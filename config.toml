@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jun  9 20:03:48 2022
+
+@author: user
+"""
+
+[theme]
+base="dark"
+backgroundColor="#01040a"
+secondaryBackgroundColor="#8c1002"
